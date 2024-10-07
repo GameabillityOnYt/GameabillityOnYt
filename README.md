@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Gameabillity!
 - 👀 I’m interested in Video Games and Coding!
-- 🌱 I’m currently learning Python!
-- ⚒️ I'm working on an Adventure Game on python!
+- 🌱 I’m currently learning Lua, C#, C++, Python!
